@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug involving loose equality (==) and null checks. The bug arises from the misuse of loose equality to compare a variable against null.  The solution clarifies how to properly handle null and undefined checks using strict equality (===).
